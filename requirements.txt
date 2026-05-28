@@ -3,12 +3,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
-notebook
 ipykernel
 catboost
 xgboost
 dill
 Flask
+gunicorn
 
 -e .
